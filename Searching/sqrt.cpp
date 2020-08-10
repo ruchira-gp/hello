@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int sqroot(int n)
+	//hello all
 {
 	int beg=1,end=n,ans=-1;
 	while(beg<=end)
