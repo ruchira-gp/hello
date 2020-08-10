@@ -22,6 +22,7 @@ int sqroot(int n)
 		}
 	}
 	return ans;
+	//namaskara
 }
 // another comment im adding 
 int main()
