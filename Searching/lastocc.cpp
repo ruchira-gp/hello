@@ -3,6 +3,7 @@ using namespace std;
 int lastocc(int n,int a[],int k)
 {
 	//hello all
+	//namaskara
 	int beg=0,end=n-1;
 	while(beg<=end)
 	{
